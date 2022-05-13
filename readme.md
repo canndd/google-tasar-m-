@@ -1,4 +1,4 @@
-# Css-Google-Ödevi2
+# Css-Google-Sonödev
 Kodluyoruz ile frond-end eğitimi css dersinin son ödevi 
 ## Explanation
 Bu repoda google güncel homepage tasarımı yapılmıştır.
